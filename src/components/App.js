@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import TopBar from "./TopBar";
+import Main from "./Main";
 
 import { TOKEN_KEY } from "../constants";
 
