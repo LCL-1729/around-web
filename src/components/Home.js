@@ -117,8 +117,8 @@ function Home(props) {
     }, 3000);
   };
 
-
   const operations = <CreatePostButton onShowPost={showPost} />;
+
   return (
     <div className="home">
       <SearchBar handleSearch={handleSearch} />
